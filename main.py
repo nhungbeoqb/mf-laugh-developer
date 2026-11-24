@@ -8,7 +8,7 @@ import os
 
 ENTRY = (
     "Production's down because my 'temporary' fix from 2021 just retired "
-    "\u2014 and it took the database password, the cron job, "
+    "\u2014 and it took the database password, the 3 a.m. cron job, "
     "and my will to live with it."
 )
 
